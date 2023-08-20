@@ -67,7 +67,7 @@ sock.listen(5)
 
 # Accept an incoming connection and get the target socket and IP
 target, ip = sock.accept()
-print('[+] Accepted connection from %s' % ip)
+print(f'[+] Accepted connection from {ip}')
 
 # Start communication with the target
 target_communication()
