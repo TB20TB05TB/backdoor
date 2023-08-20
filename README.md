@@ -1,2 +1,2 @@
 # backdoor
-An backdoor for windows 10 machines.
+A backdoor for windows machines.
